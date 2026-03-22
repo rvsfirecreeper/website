@@ -12,7 +12,7 @@ banner:
 features:
   - title: "What I do"
     image: "/images/rust.png"
-    content: "I am a Rust and Go(mainly Rust) programmer focused on cybersecurity. I am making several projects under the GitHub Organization OxiCrypt."
+    content: "I am a Rust and Go(mainly Rust) programmer focused on cybersecurity. I am making several projects under the [GitHub Organization OxiCrypt](https://github.com/OxiCrypt)."
     bulletpoints:
       - "Full Password-Based File Encryptor"
       - "Headless Encryptor (Work in Progress)"
