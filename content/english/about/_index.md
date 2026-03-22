@@ -6,7 +6,7 @@ layout: "about"
 draft: false
 ---
 
-Rust Programmer, hobbyist, stuck in school, loving coding.
+Rust Programmer, hobbyist, stuck in middleschool, loving coding.
 
 ### Projects
 
