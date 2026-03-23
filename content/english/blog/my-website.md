@@ -1,10 +1,9 @@
 +++
 date = '2026-03-15T11:53:29-04:00'
 draft = false
-title = 'My Website'
+title = 'My Website is Live'
 +++
 
-# My website is live.
 This is big news. I can start having actual things on here.
 
 I love to program, and you can expect tons of new stuff here.
