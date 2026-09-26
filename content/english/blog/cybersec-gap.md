@@ -1,7 +1,7 @@
 ---
 title: 'A gap'
 draft: false
-date: 2026-07-8T14:05:02-04:00
+date: 2026-07-08T14:05:02-04:00
 ---
 ## The Gap
 You know the cybersecurity market, especially if you're reading this blog. From what I understand there are 2 models:
